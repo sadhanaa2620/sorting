@@ -1,0 +1,20 @@
+Write a program to implement Quick sort algorithm for sorting the elements of an array.
+Input Format:
+
+The first line corresponds to size of an array.
+
+The second line corresponds to the elements in the array.
+
+Output Format:
+
+Sort an array using Quick sort algorithm and print sorted array.
+
+Sample Input:
+
+6
+
+11 15 26 38 9 10 
+
+Sample Output:
+
+9 10 11 15 26 38
